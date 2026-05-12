@@ -1,0 +1,21 @@
+{
+  "name": "lession-6",
+  "version": "1.0.0",
+  "description": "\"Node.js practice project focusing on creating local servers, handling requests, and understanding package management.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "javascript",
+    "backend-development"
+  ],
+  "author": "Santa Akter",
+  "license": "ISC",
+  "dependencies": {
+    "movies-names": "^1.1.1",
+    "random-fruits-name": "^1.10.3"
+  }
+}
